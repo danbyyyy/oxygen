@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GDIFIRCMLS7UN6N3Y4NDWJOB4N5EE4A7YLJOHBR5FHCVW475FRYF467U"
 ]
 VERSION="2.0.0"
 
@@ -9,20 +9,20 @@ VERSION="2.0.0"
 ORG_NAME="Gemsociety"
 ORG_URL="https://www.gemsociety.org"
 ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_TWITTER="@Oxygen_protocol"
+ORG_LOGO="https://i.ibb.co/LYh0rv6/levii.jpg"
+ORG_OFFICIAL_EMAIL="supportoxygen@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="OXY"
+issuer="GDIFIRCMLS7UN6N3Y4NDWJOB4N5EE4A7YLJOHBR5FHCVW475FRYF467U"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Oxygen"
+desc="Oxygen is a DeFi prime brokerage service built on Solana and powered by Serum's on-chain infrastructure. Oxygen is built around Pools—baskets of assets that take collective actions. Starting with a borrow-lending facility, users will be able to earn yield and get leverage against their portfolios, setting the foundation for a vibrant and decentralised financial ecosystem."
+conditions=""
+image="https://i.ibb.co/LYh0rv6/levii.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#OXY was issued using the open and inclusive Stellar blockchain network.
